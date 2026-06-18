@@ -1,0 +1,67 @@
+# ניחושים לפי הAI — Generative Engine Optimization Map
+
+> A research-focused website that aggregates and compares World Cup match score predictions from 6 leading AI models (such as ChatGPT, Gemini, Claude, etc.). For each match, the site displays what each AI predicted the final score would be, allowing users to compare AI forecasts side by side. The goal is analytical and research-oriented rather than personal betting — helping users understand AI prediction patterns and accuracy across football matches.
+
+---
+
+## Pages
+
+### בית
+https://ai-222ea07b.zappy5.app
+השוואת תחזיות תוצאות משחקי המונדיאל מ-6 מודלי AI מובילים. גלו איך ChatGPT, Gemini וקלוד חוזים את המשחקים ומי הכי מדויק. כנסו עכשיו לניתוח מחקרי מרתק!
+
+## Legal & Policy
+
+### Privacy Policy
+https://ai-222ea07b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ai-222ea07b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ai-222ea07b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://ai-222ea07b.zappy5.app
+- Endpoint: https://ai-222ea07b.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ניחושים לפי הAI
+A research-focused website that aggregates and compares World Cup match score predictions from 6 leading AI models (such as ChatGPT, Gemini, Claude, etc.). For each match, the site displays what each AI predicted the final score would be, allowing users to compare AI forecasts side by side. The goal is analytical and research-oriented rather than personal betting — helping users understand AI prediction patterns and accuracy across football matches.
+
+## Target Audience
+- אוהדי כדורגל ומונדיאל המעוניינים בתחזיות מבוססות AI
+- אוהדי כדורגל חובבי AI
+- אנליסטים ספורטיביים מבוססי נתונים
+- משקיעים בטכנולוגיה בספורט
+
+## Industry
+Sports Analytics
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ai-222ea07b.zappy5.app/sitemap.xml
+- Robots: https://ai-222ea07b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ai-222ea07b.zappy5.app/llms-full.txt
